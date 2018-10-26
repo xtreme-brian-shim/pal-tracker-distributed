@@ -6,6 +6,6 @@ applications:
   memory: 1G
   instances: 1
   env:
-    REGISTRATION_SERVER_ENDPOINT: https://allocations-pal-funky-hamster.cfapps.io
+    REGISTRATION_SERVER_ENDPOINT: https://registration-pal-funky-hamster.cfapps.io
   services:
   - tracker-allocations-database
